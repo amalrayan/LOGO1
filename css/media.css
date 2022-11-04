@@ -1,0 +1,84 @@
+@media (max-width: 576px) {
+  .section-header {
+    flex-wrap: wrap-reverse;
+  }
+  .electronic {
+    flex-wrap: wrap-reverse;
+  }
+  .form-signUp {
+    margin: auto;
+  }
+  .email-input {
+    width: 51%;
+  }
+  .footer-section {
+    justify-content: center;
+    display: flex;
+  }
+  .explain-form {
+    text-align: center;
+    font-size: 1em;
+  }
+  .your-data {
+    font-size: 1.2em;
+  }
+  .explain {
+    font-size: 0.8em;
+  }
+  .card-title {
+    font-size: 1em;
+  }
+  .card-text {
+    font-size: 1em;
+  }
+  .email-center {
+    width: 90%;
+    margin: auto;
+  }
+  .seven-section {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+  }
+
+}
+
+/* secound siz */
+
+@media (max-width: 924px) {
+  .form-signUp {
+    margin: auto;
+  }
+  .email-input {
+    width: 51%;
+  }
+  .footer-section {
+    justify-content: center;
+    display: flex;
+  }
+  .explain-form {
+    text-align: center;
+    font-size: 1em;
+  }
+  .your-data {
+    font-size: 1.6em;
+  }
+  .explain {
+    font-size: 0.8em;
+  }
+  .card-title {
+    font-size: 1em;
+  }
+  .explain-card {
+    font-size: 0.8em;
+  }
+  .email-center {
+    width: 80%;
+    margin: auto;
+  }
+  .seven-section {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+}
